@@ -3,6 +3,7 @@
 Используя один из framework ([Flask](https://flask.palletsprojects.com/en/1.1.x/), [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/))  
 Создать Микросвервис:  
     Задача сервиса на запрос GET /api/meta/<path> вернуть список файлов с датой  
+    Которые находятся в директории  
 Пример ответа:  
 ```javascript  
 {
