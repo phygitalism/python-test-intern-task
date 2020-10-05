@@ -12,10 +12,10 @@
             “type”: “file”,
             “time”: “time”
         },
-                {
-                    “name”: ”name”,
-                    “type”: “file”,
-                    “time”: “time”
+        {
+            “name”: ”name”,
+            “type”: “file”,
+            “time”: “time”
         },
     ]
 } 
