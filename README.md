@@ -1,10 +1,10 @@
-# Тестовое задание для Стажера
+# Тестовое задание для Стажера  
 
 Используя один из framework ([Flask](https://flask.palletsprojects.com/en/1.1.x/), [Django](https://www.djangoproject.com/), [FastApi](https://fastapi.tiangolo.com/))  
-Создать Микросвервис:
-    Задача сервиса на запрос GET /api/meta/<path> вернуть список файлов с датой
-    Пример ответа:
-    ```json
+Создать Микросвервис:  
+    Задача сервиса на запрос GET /api/meta/<path> вернуть список файлов с датой  
+    Пример ответа:  
+    ```javascript
     {
         “data”:[
             {
@@ -19,10 +19,10 @@
             },
         ]
     } 
-    ```
-    Корневая директория ставится в config.py
+    ```  
+    Корневая директория ставится в config.py  
 
-## Плюс
-наличие Dockerfile
-наличие virtualenv
-использование poetry или аналогов
+## Плюс  
+наличие Dockerfile  
+наличие virtualenv  
+использование poetry или аналогов  
